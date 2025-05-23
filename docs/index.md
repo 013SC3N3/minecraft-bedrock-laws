@@ -1,10 +1,4 @@
 ---
-
-## DOCS FILES
-
-### `/docs/index.md`
-```markdown
----
 title: Minecraft Bedrock Enterprise Scripting Laws
 description: Professional development standards for AI-assisted Minecraft Bedrock scripting
 layout: default

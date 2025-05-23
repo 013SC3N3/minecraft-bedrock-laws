@@ -1,4 +1,4 @@
-# Minecraft Bedrock Enterprise Scripting Laws
+# Minecraft Bedrock Scripting Laws [WIP]
 
 Professional development framework for scalable, maintainable Minecraft Bedrock scripting with AI assistance and private repository validation.
 
